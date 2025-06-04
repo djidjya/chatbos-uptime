@@ -9,5 +9,5 @@ assignees: # Users to assign downtime issues (optional)
   - niallrox
 
 status-website:
-  baseUrl: /repo # where "repo" is your repository name
+  baseUrl: /chatbos-uptime # where "repo" is your repository name
   name: Your Status Website
