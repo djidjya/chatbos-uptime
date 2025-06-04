@@ -3,11 +3,19 @@ owner: djidjya # Your GitHub organization or username, where this repository liv
 repo: chatbos-uptime # The name of this repository
 
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: Platform
+    url: https://chatbos.ai
+  - name: Chat
+    url: https://chat.chatbos.ai/embed.iife.js
+  - name: Platform Dev
+    url: https://platform.dev.chatbos.ai
+  - name: Chat Dev
+    url: https://chat.dev.chatbos.ai/embed.iife.js
+  - name: API Dev
+    url: https://api.dev.chatbos.ai/api/bots/4b02cb6c-f315-4443-8a82-cf629584a316
 assignees: # Users to assign downtime issues (optional)
   - niallrox
 
 status-website:
-  baseUrl: /chatbos-uptime # where "repo" is your repository name
-  name: Your Status Website
+  baseUrl: /chatbos-uptime
+  name: Status Website
