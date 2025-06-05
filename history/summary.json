@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.dev.chatbos.ai.ico",
     "slug": "chat-dev",
     "status": "up",
-    "uptime": "95.51%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "95.51%",
+    "uptime": "97.33%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
     "time": 928,
     "timeDay": 928,
     "timeWeek": 928,
@@ -78,17 +78,19 @@
     "url": "https://api.dev.chatbos.ai/api/bots/4b02cb6c-f315-4443-8a82-cf629584a316",
     "icon": "https://icons.duckduckgo.com/ip3/api.dev.chatbos.ai.ico",
     "slug": "api-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 540,
     "timeDay": 540,
     "timeWeek": 540,
     "timeMonth": 540,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   }
 ]
