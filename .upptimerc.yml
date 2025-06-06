@@ -16,6 +16,7 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - niallrox
 
+runner: "[self-hosted]"
 status-website:
   baseUrl: /chatbos-uptime
   name: Status Website
