@@ -3,10 +3,12 @@ owner: djidjya # Your GitHub organization or username, where this repository liv
 repo: chatbos-uptime # The name of this repository
 
 sites: # List of endpoints to track
-  - name: Platform
+  - name: Platform Prod
     url: https://chatbos.ai
-  - name: Chat
+  - name: Chat Prod
     url: https://chat.chatbos.ai/embed.iife.js
+  - name: API Prod
+    url: https://api.chatbos.ai/api/bots/59d23179-cbaf-4d07-8683-29d3965759cf
   - name: Platform Dev
     url: https://platform.dev.chatbos.ai
   - name: Chat Dev
